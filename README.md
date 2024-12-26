@@ -1,3 +1,9 @@
+# Installation Steps
+
+    1. Clone the project
+    2. Open terminal and run this command --> npm install
+    3. Run project by --> npm start
+
 # React App with Redux and Redux Saga
 
 ### Provides
